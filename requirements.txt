@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+tensorflow
+scikit-learn
+nltk
+spacy
+yfinance
+streamlit
+beautifulsoup4
+requests
+seaborn
